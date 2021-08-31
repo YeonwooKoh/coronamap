@@ -8,5 +8,5 @@ especially pandas, geopandas, numpy, folium, and more about machine learning
 
 by self-study and youtube e-learning, etc.
 
-Therefore I mostly understand the logic and Algorithm of the process this code.
+Therefore I mostly understand the logic and Algorithm of the process in this code.
 
